@@ -1,4 +1,4 @@
-echo "# 📚 StudyHub
+# 📚 StudyHub
 
 A full-stack learning platform for students to study smarter with flashcards, quizzes, and document management.
 
@@ -58,11 +58,11 @@ A full-stack learning platform for students to study smarter with flashcards, qu
 
 ## 📁 Project Structure
 
-\`\`\`
-├── backend-nest/    # NestJS API server
-├── frontend/        # Next.js web app
-└── tables/          # Database schemas
-\`\`\`
+
+- ├── backend-nest/    # NestJS API server
+- ├── frontend/        # Next.js web app
+- └── tables/          # Database schemas
+
 
 ---
 

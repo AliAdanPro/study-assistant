@@ -35,10 +35,6 @@ A full-stack learning platform for students to study smarter with flashcards, qu
 ### Installation
 
 1. **Clone the repo**
-   \`\`\`bash
-   git clone https://github.com/yourusername/studyhub.git
-   cd studyhub
-   \`\`\`
 
 2. **Set up the backend**
    \`\`\`bash
